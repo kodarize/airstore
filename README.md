@@ -1,2 +1,2 @@
-# airstore
-Kodair App Store
+# Airstore
+Official Kodair App Store
